@@ -101,3 +101,16 @@ Gather user/task stats.
 ## Data model
 ![data model](./models.jpg)
 
+# After homework review
+
+Board [link](https://miro.com/app/board/uXjVMxSdsf0=/?share_link_id=711358708796). <br/>
+My main mistake was that I didn't understand ES well and use it to describe implementation of my system instead of behaviour.
+
+## ES 
+![es](./es.jpg)
+
+## Data model
+![data model](./models2.jpg)
+
+## Service relations
+![services](./services.jpg)
